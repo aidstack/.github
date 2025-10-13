@@ -8,7 +8,7 @@ TBD
 
 Documentation, templates, and frameworks to improve software maturity in the humanitarian sector.  
 Guides, courses and patterns that help organizations build and maintain better tech, even with limited resources.  
-Startup-fast, entreprise-ready.
+Startup-fast. Entreprise-ready.
 
 ## Commitment
 
