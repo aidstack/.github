@@ -1,5 +1,4 @@
 Open-source software components and design patterns for field data, offline operations, and civic infrastructure.
-
 _We build reliable software pieces that help humanitarian and public organizations work better in a fast moving world._
 
 ## Projects
@@ -21,7 +20,6 @@ We build with respect for human dignity and safety.
 ## Contact / Collaboration
 
 Open issues or pull requests in the relevant repositories.
-
 _If you work in a humanitarian or civic organization and want to explore collaboration, you can reach us via email: contact at aidstack dot org._
 
 ## License and Credits
