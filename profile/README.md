@@ -21,9 +21,9 @@ We build with respect for human dignity and safety.
 ## Contact / Collaboration
 
 Open issues or pull requests in the relevant repositories.
+
 _If you work in a humanitarian or civic organization and want to explore collaboration, you can reach us via email: contact at aidstack dot org._
 
 ## License and Credits
 
 All repositories are open-source under the **MPL-2.0 License** unless otherwise noted.
-Design inspired by Swiss public-service clarity and the ethics of humanitarian neutrality.
