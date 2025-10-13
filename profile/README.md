@@ -1,5 +1,4 @@
-Open-source software components and design patterns for field data, offline operations, and civic infrastructure.
-_We build reliable software pieces that help humanitarian and public organizations work better in a fast moving world._
+AidStack is an independent engineering lab creating open-source software components and design patterns for humanitarian applications and civic infrastructure. 
 
 ## Projects
 
@@ -8,7 +7,7 @@ TBD
 ## Methods
 
 Documentation, templates, and frameworks to improve software maturity in the humanitarian sector.  
-_Guides and patterns that help organizations build and maintain better tech, even with limited resources._
+Guides, courses and patterns that help organizations build and maintain better tech, even with limited resources.
 
 ## Commitment
 
@@ -19,8 +18,8 @@ We build with respect for human dignity and safety.
 
 ## Contact / Collaboration
 
-Open issues or pull requests in the relevant repositories.
-_If you work in a humanitarian or civic organization and want to explore collaboration, you can reach us via email: contact at aidstack dot org._
+Open issues or pull requests in the relevant repositories.  
+If you work in a humanitarian or civic organization and want to explore collaboration, you can reach us via email: contact at aidstack dot org.
 
 ## License and Credits
 
