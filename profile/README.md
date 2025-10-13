@@ -1,4 +1,5 @@
 Open-source software components and design patterns for field data, offline operations, and civic infrastructure.
+
 _We build reliable software pieces that help humanitarian and public organizations work better in a fast moving world._
 
 ## Projects
