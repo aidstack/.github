@@ -7,7 +7,7 @@ TBD
 ## Methods
 
 Documentation, templates, and frameworks to improve software maturity in the humanitarian sector.  
-Guides, courses and patterns that help organizations build and maintain better tech, even with limited resources.
+Guides, courses and patterns that help organizations build and maintain better tech, even with limited resources.  
 Startup-fast, entreprise-ready.
 
 ## Commitment
